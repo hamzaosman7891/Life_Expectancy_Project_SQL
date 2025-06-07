@@ -22,9 +22,8 @@ Access the dataset through the 'WorldLifeExpectancy.xlsx.
 
 Data Cleaning:
 
-Find the data cleaning script in the 'DataCleaning.sql' file.
-
 Addresses missing values, and outliers, and standardizes formats.
+
 Ensure data integrity and format consistency.
 
 Exploratory Data Analysis (EDA):

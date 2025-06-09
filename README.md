@@ -1,6 +1,6 @@
 # Life_Expectancy_Project_SQL
 
-This project is an analysis of global demographic data to understand and interpret trends in life expectancy across different countries and populations. The aim is to provide insights on factors infleuncing life expectancy
+This project is an analysis of global demographic data to understand and interpret trends in life expectancy across different countries and populations. The aim is to provide insights on factors influencing life expectancy
 
 ## Project Overview
 
